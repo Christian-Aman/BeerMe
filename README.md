@@ -1,7 +1,7 @@
-## Beer Me
+# Beer Me
 This is an application that helps you find new beers you might want to try out!
 
-# Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
